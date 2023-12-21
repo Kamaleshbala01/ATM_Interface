@@ -16,4 +16,5 @@ public class TransferAmount {
         System.out.println("Your account Balance : "+data.getUserBalance());
         System.out.println("----------------------------------------------------------------");
     }
+
 }
